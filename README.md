@@ -1,2 +1,2 @@
 # robofriendreact
-udemy paht exo react
+udemy path exo react
